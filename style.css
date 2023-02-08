@@ -4,6 +4,10 @@
     box-sizing: border-box;
   }
   
+  #navbar{
+    min-height:90px;
+}
+
   body {
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.5;
