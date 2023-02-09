@@ -1,12 +1,16 @@
+:root{
+  --primary: rgb(214, 98, 20);
+}
+
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
   }
   
-  #navbar{
-    min-height:90px;
-}
+ 
 
   body {
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
